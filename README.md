@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a software engineer & Head of Tech @ Unbroker, where I'm using software to solve real problems and build the future of business sales. Contact me: max@maxhogan.dev or [on Linkedin](https://linkedin.com/in/pmaxhogan).
+I'm a software engineer & Head of Tech @ Unbroker, where I'm using software to solve real problems building the future of business sales. Contact me: max@maxhogan.dev or [on Linkedin](https://linkedin.com/in/pmaxhogan).
 
 ## My Experience
 - 👨‍💻 **JS/TS, Vue, React, Python**, also Java, Rust, C/++
